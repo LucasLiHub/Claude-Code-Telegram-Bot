@@ -37,7 +37,7 @@ claude-code-telegram-bot/
 **1. Clone and install dependencies**
 
 ```bash
-git clone https://github.com/your-username/claude-code-telegram-bot.git
+git clone https://github.com/LucasLiHub/Claude-Code-Telegram-Bot.git
 cd claude-code-telegram-bot
 python3 -m venv .venv
 source .venv/bin/activate
